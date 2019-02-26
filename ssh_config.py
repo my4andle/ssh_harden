@@ -2,7 +2,7 @@
 """
 Usage:
   ssh_config.py -h | --help
-  ssh_config.py enablekeys (--rhost_file=<rhost_file> | --rhost=<rhost>) (--nonroot_user=<nonroot_user>) [--login_user=<login_user>] [--ssh_pubkey=<ssh_pubkey> | --ssh_new_key=<ssh_new_key>]
+  ssh_config.py (--rhost_file=<rhost_file> | --rhost=<rhost>) (--nonroot_user=<nonroot_user>) [--login_user=<login_user>] [--ssh_pubkey=<ssh_pubkey> | --ssh_new_key=<ssh_new_key>]
 
 Options:
   --rhost_file=<rhost_file>         File containing a single ipv4 target per line
